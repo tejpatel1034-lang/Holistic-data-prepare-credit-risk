@@ -69,6 +69,20 @@
 
 ---
 
+
+## Presentation Video
+
+### Project Walkthrough – Holistic Data Preparer
+
+<div align="center">
+
+### 🎥 [**Watch Project Presentation**](https://drive.google.com/file/d/1nhk0Dk_XYYphE--zDLEST5bFpwCBm5Yi/view?usp=sharing)
+https://drive.google.com/file/d/1nhk0Dk_XYYphE--zDLEST5bFpwCBm5Yi/view?usp=sharing
+
+</div>
+
+---
+
 ## Business Problem
 
 Financial institutions must assess **credit risk** before approving loans. Some customers fail to repay, which creates financial losses. A credit-risk classification model can help flag higher-risk applicants, but only if the data feeding it is clean, consistent and free of leakage.
@@ -644,18 +658,6 @@ jupyter notebook
 - [ ] Model monitoring
 - [ ] Deployment through FastAPI
 - [ ] Reproducible experiment tracking
-
----
-
-## Presentation Video
-
-### Project Walkthrough – Holistic Data Preparer
-
-<div align="center">
-
-### 🎥 [**Watch Project Presentation**](https://drive.google.com/file/d/1nhk0Dk_XYYphE–zDLEST5bFpwCBm5Yi/view?usp=sharing)
-
-</div>
 
 ---
 
