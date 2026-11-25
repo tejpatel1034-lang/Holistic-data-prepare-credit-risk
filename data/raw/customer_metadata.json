@@ -1,0 +1,42 @@
+[
+    {
+        "customer_id": "C001",
+        "gender": "Female",
+        "region": "West",
+        "education_level": "Graduate",
+        "employment_type": "Salaried",
+        "join_date": "2021-04-15"
+    },
+    {
+        "customer_id": "C002",
+        "gender": "Male",
+        "region": "North",
+        "education_level": "Post-Graduate",
+        "employment_type": "Self-Employed",
+        "join_date": "2019-08-20"
+    },
+    {
+        "customer_id": "C003",
+        "gender": "Female",
+        "region": "South",
+        "education_level": "Graduate",
+        "employment_type": "Salaried",
+        "join_date": "2022-01-10"
+    },
+    {
+        "customer_id": "C004",
+        "gender": "Male",
+        "region": "East",
+        "education_level": "Secondary",
+        "employment_type": "Unemployed",
+        "join_date": "2018-11-05"
+    },
+    {
+        "customer_id": "C005",
+        "gender": "Other",
+        "region": "West",
+        "education_level": "Primary",
+        "employment_type": "Salaried",
+        "join_date": "2023-06-12"
+    }
+]

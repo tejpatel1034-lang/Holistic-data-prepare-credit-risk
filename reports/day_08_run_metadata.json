@@ -1,0 +1,48 @@
+{
+    "project": "Holistic Data Preparer",
+    "day": 8,
+    "domain": "Fintech",
+    "use_case": "Customer Credit Risk Prediction",
+    "dataset_status": "SYNTHETIC DEMONSTRATION DATA",
+    "source_file": null,
+    "random_state": 42,
+    "test_size": 0.2,
+    "reference_date": "2026-01-01",
+    "target": "default_flag",
+    "identifier_excluded": "customer_id",
+    "numeric_features": [
+        "age",
+        "annual_income",
+        "loan_amount",
+        "credit_score",
+        "transaction_count",
+        "spending_ratio",
+        "loan_to_income_ratio",
+        "income_per_transaction",
+        "customer_tenure_days",
+        "repayment_risk_level"
+    ],
+    "categorical_features": [
+        "gender",
+        "region",
+        "education_level",
+        "employment_type",
+        "loan_purpose",
+        "repayment_history",
+        "age_band"
+    ],
+    "engineered_features": [
+        "loan_to_income_ratio",
+        "income_per_transaction",
+        "customer_tenure_days",
+        "age_band",
+        "repayment_risk_level"
+    ],
+    "preprocessing": {
+        "numeric_imputation": "median",
+        "numeric_scaling": "StandardScaler",
+        "categorical_imputation": "most_frequent",
+        "categorical_encoding": "OneHotEncoder(handle_unknown='ignore')"
+    },
+    "baseline_model": "LogisticRegression(class_weight='balanced')"
+}

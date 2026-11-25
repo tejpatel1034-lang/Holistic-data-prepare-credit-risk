@@ -1,0 +1,7 @@
+feature,iqr_outlier_count,iqr_outlier_percentage,zscore_outlier_count,zscore_outlier_percentage
+age,0,0.0,0,0.0
+annual_income,12,1.2,3,0.3
+loan_amount,7,0.7000000000000001,3,0.3
+credit_score,15,1.5,4,0.4
+transaction_count,6,0.6,4,0.4
+spending_ratio,15,1.5,5,0.5

@@ -1,0 +1,6 @@
+check,passed
+Expected columns present and in order,True
+Row count preserved,True
+Customer IDs unique,True
+Target contains only 0/1,True
+Raw dataset file preserved,True

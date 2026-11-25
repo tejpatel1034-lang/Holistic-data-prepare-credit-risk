@@ -1,0 +1,7 @@
+feature,business_min,business_max,violation_count,violation_percentage
+age,18,100,0,0.0
+annual_income,0,20000000,0,0.0
+loan_amount,0,10000000,0,0.0
+credit_score,300,900,0,0.0
+transaction_count,0,500,0,0.0
+spending_ratio,0,1,0,0.0

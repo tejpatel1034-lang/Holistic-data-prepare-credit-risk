@@ -1,0 +1,21 @@
+column,role
+customer_id,Identifier — excluded
+age,Model predictor
+gender,Model predictor
+region,Model predictor
+education_level,Model predictor
+employment_type,Model predictor
+annual_income,Model predictor
+loan_amount,Model predictor
+loan_purpose,Model predictor
+credit_score,Model predictor
+repayment_history,Model predictor
+transaction_count,Model predictor
+spending_ratio,Model predictor
+join_date,Raw date — excluded after tenure feature
+default_flag,Target — separate y
+loan_to_income_ratio,Model predictor
+income_per_transaction,Model predictor
+customer_tenure_days,Model predictor
+age_band,Model predictor
+repayment_risk_level,Model predictor

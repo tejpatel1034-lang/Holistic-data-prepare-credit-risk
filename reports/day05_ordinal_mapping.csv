@@ -1,0 +1,5 @@
+category,encoded_value,feature
+Poor,0,repayment_history
+Fair,1,repayment_history
+Good,2,repayment_history
+Excellent,3,repayment_history

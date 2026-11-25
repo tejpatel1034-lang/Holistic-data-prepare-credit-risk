@@ -1,0 +1,14 @@
+file,exists,size_bytes
+data\processed\day_08_feature_engineered.csv,True,167495
+data\processed\day_08_ml_ready_train.csv,True,308921
+data\processed\day_08_ml_ready_test.csv,True,78242
+data\processed\day_08_credit_risk_pipeline.joblib,True,6874
+data\interim\day_08_train_raw_features.csv,True,124527
+data\interim\day_08_test_raw_features.csv,True,31218
+reports\day_08_feature_engineering_report.csv,True,384
+reports\day_08_feature_selection_report.csv,True,677
+reports\day_08_final_validation_report.csv,True,589
+reports\day_08_baseline_model_metrics.csv,True,140
+reports\day_08_run_metadata.json,True,1409
+src\feature_engineering.py,True,1306
+requirements.txt,True,78

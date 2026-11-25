@@ -1,0 +1,16 @@
+,missing_before,missing_after,values_filled,treatment
+customer_id,0,0,0,Not imputed on Day 3
+age,50,0,50,Median
+gender,30,0,30,Most frequent
+region,40,0,40,Most frequent
+education_level,0,0,0,Not imputed on Day 3
+employment_type,60,0,60,Most frequent
+annual_income,80,0,80,Median
+loan_amount,40,0,40,Median
+loan_purpose,0,0,0,Not imputed on Day 3
+credit_score,70,0,70,Median
+repayment_history,50,0,50,Most frequent
+transaction_count,0,0,0,Not imputed on Day 3
+spending_ratio,50,0,50,Median
+join_date,20,20,0,Not imputed on Day 3
+default_flag,0,0,0,Not imputed on Day 3

@@ -1,0 +1,6 @@
+customer_id,age,annual_income,loan_amount,loan_purpose,credit_score,transaction_count,spending_ratio,default_flag,gender,region,education_level,employment_type,join_date,repayment_history,missed_payments_last_12m,unemployment_rate,inflation_rate
+C001,25,600000,150000,Education,720,45,0.35,0,Female,West,Graduate,Salaried,2021-04-15,0,0,4.2,5.1
+C002,41,900000,400000,Home,650,28,0.62,1,Male,North,Post-Graduate,Self-Employed,2019-08-20,3,3,5.0,5.3
+C003,33,750000,250000,Car,780,60,0.28,0,Female,South,Graduate,Salaried,2022-01-10,0,0,3.8,4.9
+C004,52,1200000,500000,Business,690,32,0.55,1,Male,East,Secondary,Unemployed,2018-11-05,2,2,5.6,5.5
+C005,29,500000,180000,Other,710,40,0.4,0,Other,West,Primary,Salaried,2023-06-12,1,1,4.2,5.1

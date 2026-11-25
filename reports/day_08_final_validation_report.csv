@@ -1,0 +1,10 @@
+check,passed,details
+Target is binary,True,Only 0 and 1 allowed
+Both target classes exist,True,"Classes: [np.int64(0), np.int64(1)]"
+Customer IDs are unique,True,Duplicate IDs: 0
+Age range reviewed,True,Expected review range 18–100
+Income is non-negative,True,Negative values require investigation
+Loan amount is non-negative,True,Negative values require investigation
+Credit score reviewed,True,Confirm the source credit-score definition
+Spending ratio reviewed,True,Expected ratio range 0–1; verify source definition
+All model features exist,True,Required predictors exist

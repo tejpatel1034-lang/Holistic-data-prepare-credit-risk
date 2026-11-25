@@ -1,0 +1,7 @@
+check,passed
+Train and test feature columns match,True
+Customer ID excluded from model features,True
+Target excluded from model features,True
+Target values remain binary,True
+Combined row count preserved,True
+Train/test rows add up to full dataset,True

@@ -1,0 +1,20 @@
+feature,category,encoded_column,encoding_method
+gender,Female,gender_Female,One-Hot
+gender,Male,gender_Male,One-Hot
+gender,Other,gender_Other,One-Hot
+region,East,region_East,One-Hot
+region,North,region_North,One-Hot
+region,South,region_South,One-Hot
+region,West,region_West,One-Hot
+education_level,Graduate,education_level_Graduate,One-Hot
+education_level,High School,education_level_High School,One-Hot
+education_level,Postgraduate,education_level_Postgraduate,One-Hot
+employment_type,Business,employment_type_Business,One-Hot
+employment_type,Salaried,employment_type_Salaried,One-Hot
+employment_type,Self-employed,employment_type_Self-employed,One-Hot
+employment_type,Unemployed,employment_type_Unemployed,One-Hot
+loan_purpose,Business,loan_purpose_Business,One-Hot
+loan_purpose,Education,loan_purpose_Education,One-Hot
+loan_purpose,Home,loan_purpose_Home,One-Hot
+loan_purpose,Personal,loan_purpose_Personal,One-Hot
+loan_purpose,Vehicle,loan_purpose_Vehicle,One-Hot

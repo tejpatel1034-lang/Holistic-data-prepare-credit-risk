@@ -1,0 +1,6 @@
+customer_id,age,annual_income,loan_amount,loan_purpose,credit_score,transaction_count,spending_ratio,default_flag
+C001,25,600000,150000,Education,720,45,0.35,0
+C002,41,900000,400000,Home,650,28,0.62,1
+C003,33,750000,250000,Car,780,60,0.28,0
+C004,52,1200000,500000,Business,690,32,0.55,1
+C005,29,500000,180000,Other,710,40,0.4,0

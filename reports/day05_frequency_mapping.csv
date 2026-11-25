@@ -1,0 +1,23 @@
+feature,category,training_relative_frequency
+gender,Female,0.35625
+gender,Male,0.3325
+gender,Other,0.31125
+region,South,0.29125
+region,North,0.23875
+region,East,0.235
+region,West,0.235
+education_level,Graduate,0.34
+education_level,Postgraduate,0.3325
+education_level,High School,0.3275
+employment_type,Self-employed,0.3425
+employment_type,Salaried,0.22875
+employment_type,Unemployed,0.22625
+employment_type,Business,0.2025
+loan_purpose,Personal,0.21875
+loan_purpose,Vehicle,0.2175
+loan_purpose,Education,0.2125
+loan_purpose,Business,0.18
+loan_purpose,Home,0.17125
+repayment_history,Good,0.6125
+repayment_history,Average,0.2675
+repayment_history,Poor,0.12

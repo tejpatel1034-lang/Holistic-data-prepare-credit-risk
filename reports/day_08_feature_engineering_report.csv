@@ -1,0 +1,6 @@
+feature,definition,missing_count,missing_percent
+loan_to_income_ratio,Loan amount / annual income,0,0.0
+income_per_transaction,Annual income / transaction count,0,0.0
+customer_tenure_days,Days from join date to reference date,31,2.5833333333333335
+age_band,Age grouped into readable bands,0,0.0
+repayment_risk_level,Repayment history mapped from 0 (Excellent) to 3 (Poor),0,0.0

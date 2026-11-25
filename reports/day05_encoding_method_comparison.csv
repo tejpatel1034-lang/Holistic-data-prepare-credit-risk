@@ -1,0 +1,5 @@
+method,use_case,advantage,limitation
+Label Encoding,Single categorical variable; mainly demonstration here,Compact integer codes,Can imply false order for nominal categories
+One-Hot Encoding,Nominal features,Does not impose category order,Can create many columns
+Ordinal Encoding,Repayment history with defined order,Preserves known ranking,Requires a defensible category order
+Frequency Encoding,Potentially high-cardinality features,Compact numeric representation,Different categories may share a frequency
