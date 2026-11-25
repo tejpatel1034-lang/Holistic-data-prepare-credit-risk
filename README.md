@@ -77,7 +77,6 @@
 <div align="center">
 
 ### 🎥 [**Watch Project Presentation**](https://drive.google.com/file/d/1nhk0Dk_XYYphE--zDLEST5bFpwCBm5Yi/view?usp=sharing)
-https://drive.google.com/file/d/1nhk0Dk_XYYphE--zDLEST5bFpwCBm5Yi/view?usp=sharing
 
 </div>
 
